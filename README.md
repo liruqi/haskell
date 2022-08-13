@@ -1,3 +1,3 @@
 # haskell
 
-My haskell exercises.
+My [haskell](https://github.com/chinapedia/wikipedia.zh/blob/master/Page/Haskell.md) exercises.
