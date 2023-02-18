@@ -20,3 +20,6 @@ Source: [Higher-order programming and type inference](https://www.seas.upenn.edu
 
 # Keywords
 * [Just](Just.md)
+
+# Built-in Functions
+* [Functions](Functions.md)
